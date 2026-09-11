@@ -96,7 +96,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2 Importancia de la definición de requisitos
     p.mb-4(data-aos="fade-down") La definición de requisitos es una etapa fundamental en el desarrollo de <em>software</em>, ya que permite establecer con claridad las necesidades que el sistema debe satisfacer. Cuando los requisitos se identifican y documentan de manera adecuada, el equipo de desarrollo puede comprender mejor el problema que se desea resolver y diseñar soluciones que respondan a las expectativas de los usuarios.
-    .bloque-texto-g.bg-01.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img10.jpg')})`}"
       )

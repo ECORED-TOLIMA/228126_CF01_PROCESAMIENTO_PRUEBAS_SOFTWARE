@@ -71,7 +71,7 @@
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.2 Requisitos no funcionales
-    .bloque-texto-g.bg-01.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img04.jpg')})`}"
       )
@@ -80,7 +80,7 @@
     p.mb-4(data-aos="fade-down") Este tipo de requisitos define el comportamiento global del sistema y establece parámetros que permiten evaluar su desempeño y calidad durante su operación. En muchos casos, los requisitos no funcionales determinan el nivel de eficiencia, confiabilidad y seguridad que debe tener el sistema para cumplir con las expectativas de los usuarios y de la organización.
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
-        .cajon.cajon.C02.color-secundario.p-3
+        .cajon.cajon.C01.color-primario.p-3
           .row.justify-content-center.align-items-center
             p.mb-0(data-aos="fade-down") Para que puedan ser evaluados correctamente, los requisitos no funcionales deben formularse de manera medible y verificable, especificando valores concretos o condiciones que permitan comprobar su cumplimiento durante las pruebas del sistema.
     p.mb-4(data-aos="fade-down") A continuación, se presentan algunas de las categorías más comunes de requisitos no funcionales.

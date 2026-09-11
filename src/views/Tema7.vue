@@ -39,7 +39,7 @@
           p.mb-0(data-aos="fade-down") El uso de herramientas de modelado resulta especialmente útil en proyectos de <em>software</em> complejos, donde intervienen múltiples actores, procesos y componentes tecnológicos. En estos casos, los modelos permiten representar de forma clara las interacciones del sistema y sirven como base para las etapas posteriores de diseño e implementación.
       .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/tema7/img02.jpg')
+          img(src='@/assets/curso/tema7/img02.png')
     p.mb-0(data-aos="fade-down") En los siguientes apartados se presentan los principales tipos de herramientas de modelado utilizadas en la ingeniería de requisitos, así como las características que las hacen útiles dentro del proceso de desarrollo de <em>software</em>.
     separador
     #t_7_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -47,10 +47,10 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/tema7/img03.jpg')
+          img(src='@/assets/curso/tema7/img03.png')
       .col.col-lg-8.col-12.order-lg-1.order-2
         p.mb-3(data-aos="fade-down") Las herramientas de modelado de requisitos son aplicaciones o recursos que permiten representar de forma visual y estructurada los diferentes elementos de un sistema de <em>software</em>. Estas herramientas facilitan la comprensión del sistema, ya que permiten organizar la información, identificar relaciones entre componentes y comunicar de manera clara los requisitos definidos durante el proceso de desarrollo.
-        .cajon.cajon.C06.color-primario.px-4.py-3.mb-3
+        .cajon.cajon.C02.color-secundario.px-4.py-3.mb-3
           p.mb-0(data-aos="fade-down") El uso de herramientas de modelado permite representar gráficamente procesos, estructuras de datos, interacciones entre actores y comportamiento del sistema. Gracias a estas representaciones, los equipos de desarrollo pueden analizar con mayor claridad el funcionamiento del sistema antes de iniciar la fase de implementación.
         p.mb-0(data-aos="fade-down") Existen diferentes tipos de herramientas de modelado, las cuales se utilizan dependiendo del tipo de información que se desea representar y del enfoque metodológico del proyecto.
     p.mb-4(data-aos="fade-down") Entre los principales tipos de herramientas de modelado utilizadas en ingeniería de <em>software</em> se encuentran:
@@ -133,7 +133,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/tema7/img09.jpg')
+          img(src='@/assets/curso/tema7/img09.png')
       .col.col-lg-8.col-12.order-lg-2.order-2
         p.mb-3(data-aos="fade-down") Una de sus principales características es la <b>representación gráfica</b>, ya que permiten expresar ideas, procesos y estructuras del sistema mediante diagramas y esquemas visuales. Este tipo de representación facilita la comprensión del sistema tanto para el equipo técnico como para los usuarios o partes interesadas que participan en el proyecto.
         .row.mb-3

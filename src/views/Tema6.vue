@@ -15,15 +15,15 @@
         figure
           img(src='@/assets/curso/tema6/img02.svg')
       .col.col-lg-8.col-12.order-lg-2.order-2
-        .cajon.cajon.bg-05.px-4.py-3
+        .cajon.cajon.bg-01.px-4.py-3
           p.mb-0(data-aos="fade-down") En un proyecto de <em>software</em>, estos roles pueden ser desempeñados por una o varias personas, dependiendo del tamaño del proyecto, la organización del equipo y la metodología de desarrollo utilizada. En algunos casos, una misma persona puede asumir más de un rol, especialmente en proyectos pequeños o equipos reducidos.
     .row.justify-content-center.mb-0
       .col.col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/tema6/img03.jpg')
+          img(src='@/assets/curso/tema6/img03.png')
       .col.col-lg-6.col-12.order-lg-1.order-2
         p.mb-4(data-aos="fade-down") La correcta identificación de los roles permite mejorar la comunicación entre los participantes del proyecto, facilitar la toma de decisiones y asegurar que cada requisito tenga un responsable claro para su definición, validación y seguimiento.
-        .cajon.cajon.C02.color-secundario.px-4.py-3
+        .cajon.cajon.C01.color-primario.px-4.py-3
           p.mb-0(data-aos="fade-down") Entre los principales roles que intervienen en la ingeniería de requisitos se encuentran los usuarios y actores del sistema, las partes interesadas o <em>stakeholders</em>, el cliente líder o dueño del producto y el equipo de desarrollo junto con el analista de requisitos. Cada uno de estos participantes cumple funciones específicas que contribuyen al éxito del proceso de definición y gestión de requisitos.
     separador
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -32,7 +32,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/tema6/img04.jpg')
+          img(src='@/assets/curso/tema6/img04.png')
       .col.col-lg-6.col-12.order-lg-2.order-2
         p.mb-2(data-aos="fade-down") Los <b>usuarios</b> son las personas que utilizan el sistema de manera directa para realizar tareas específicas dentro de su entorno laboral o personal. Ellos interactúan con la interfaz del sistema, introducen información, consultan datos y ejecutan diferentes funciones que permiten cumplir los procesos definidos por la organización. Debido a su experiencia práctica en el uso del sistema, los usuarios constituyen una fuente primaria de información durante la recopilación de requisitos.
         .cajon.cajon.C06.color-primario.px-4.py-2
@@ -76,7 +76,7 @@
     separador
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.2 <em>stakeholders</em> o partes interesadas
-    .bloque-texto-g.bg-01.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema6/img10.jpg')})`}"
       )
@@ -129,7 +129,7 @@
           img(src='@/assets/curso/tema6/img18.svg')
       .col.col-lg-5.col-12.order-lg-1.order-2
         p.mb-4(data-aos="fade-down") La correcta identificación y gestión de los <em>stakeholders</em> permite establecer canales de comunicación efectivos y asegurar que las necesidades del negocio se reflejen adecuadamente en los requisitos del sistema. Además, facilita la validación de los resultados obtenidos durante el desarrollo del <em>software</em>.
-        .cajon.cajon.C06.color-primario.px-4.py-2
+        .cajon.cajon.C02.color-secundario.px-4.py-2
           p.mb-2(data-aos="fade-down") En muchos proyectos de ingeniería de requisitos se recomienda elaborar una matriz de <em>stakeholders</em>, herramienta que permite identificar a cada parte interesada, su nivel de influencia en el proyecto, sus expectativas y el tipo de participación que tendrá durante el proceso de desarrollo del sistema.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
@@ -183,7 +183,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/tema6/img19.jpg')
+          img(src='@/assets/curso/tema6/img19.png')
       .col.col-lg-7.col-12.order-lg-1.order-2
         p.mb-4(data-aos="fade-down") Dentro de la ingeniería de requisitos, el cliente líder y el dueño del producto cumplen un papel fundamental en la definición de las necesidades del sistema y en la toma de decisiones relacionadas con el desarrollo del <em>software</em>. Estas figuras representan los intereses del negocio y aseguran que el sistema que se construye responda a los objetivos organizacionales y a las necesidades reales de los usuarios.
         .cajon.cajon.C06.color-primario.px-4.py-2
@@ -215,7 +215,7 @@
           .col-5
             img(src='@/assets/curso/tema6/img24.svg' )
         p.text-center(data-aos="fade-down") Facilitar la comunicación entre los diferentes actores del proyecto.
-    .bloque-texto-g.bg-01.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema6/img25.jpg')})`}"
       )
@@ -301,7 +301,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/tema6/img34.jpg')
+          img(src='@/assets/curso/tema6/img34.png')
       .col.col-lg-7.col-12.order-lg-2.order-2
         p.mb-3(data-aos="fade-down") Por su parte, el <b>analista de requisitos</b> cumple una función de enlace entre el negocio y el equipo técnico. Este profesional se encarga de comprender las necesidades de los usuarios, documentarlas de manera estructurada y asegurar que dichas necesidades sean interpretadas correctamente por el equipo de desarrollo.
         .cajon.cajon.C06.color-primario.p-4
@@ -317,19 +317,19 @@
               p.text-bold(data-aos="fade-down") Entre las funciones principales del analista de requisitos se destacan:
                 ul.lista-ul--color.mt-4(data-aos="fade-down")
                   li
-                    i.fas.fa-cloud-arrow-down
+                    i.fas.fa-file-code
                     p.mb-0 Identificar y comprender las necesidades de los usuarios y del negocio.
                   li
-                    i.fas.fa-cloud-arrow-down
+                    i.fas.fa-file-code
                     p.mb-0 Documentar los requisitos de manera clara y estructurada.
                   li
-                    i.fas.fa-cloud-arrow-down
+                    i.fas.fa-file-code
                     p.mb-0 Apoyar el proceso de elicitación mediante entrevistas, reuniones y talleres.
                   li
-                    i.fas.fa-cloud-arrow-down
+                    i.fas.fa-file-code
                     p.mb-0 Verificar que los requisitos sean consistentes, completos y comprensibles.
                   li
-                    i.fas.fa-cloud-arrow-down
+                    i.fas.fa-file-code
                     p.mb-0 Servir como puente de comunicación entre los <em>stakeholders</em> y el equipo de desarrollo.
     p.mb-0(data-aos="fade-down") La colaboración permanente entre el analista de requisitos y el equipo de desarrollo permite asegurar que las funcionalidades implementadas respondan correctamente a las necesidades del sistema. Además, facilita la resolución de dudas durante el proceso de desarrollo y contribuye a mejorar la calidad del <em>software</em> construido.
 </template>

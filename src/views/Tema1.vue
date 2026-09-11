@@ -38,7 +38,7 @@
               img(src='@/assets/curso/tema1/img04.svg')
           .col-lg-10.col-12
             p.mb-0 Cada elemento cumple una función específica dentro del proceso y permite asegurar que el <em>software</em> sea diseñado, construido, evaluado y mantenido de forma adecuada. En conjunto, estos elementos establecen una guía que facilita la planificación de las actividades, el control del progreso del proyecto y el aseguramiento de la calidad del producto desarrollado.
-        .cajon.cajon.C01.p-4.mb-3
+        .cajon.cajon.C07.p-4.mb-3
           p.mb-0(data-aos="fade-down") Entre los principales elementos del ciclo de vida del <em>software</em> se encuentran las actividades, los roles, los artefactos, los procesos y las herramientas, los cuales se describen a continuación.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
@@ -161,7 +161,7 @@
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.3 Fases del ciclo de vida del <em>software</em>
-    .bloque-texto-g.bloque-texto-g--inverso.bg-01.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img13.jpg')})`}"
       )
@@ -209,7 +209,7 @@
           img(src='@/assets/curso/tema1/img14.svg')
       .col.col-lg-7.col-12.order-lg-2.order-2
         p.mb-2(data-aos="fade-down") Las fases del ciclo de vida del <em>software</em> no solo organizan el proceso de desarrollo, sino que también cumplen objetivos específicos que permiten garantizar que el sistema sea construido de manera estructurada, eficiente y alineada con las necesidades del usuario. Cada fase contribuye a alcanzar metas particulares dentro del proyecto, asegurando que el desarrollo del <em>software</em> avance de forma controlada y con resultados verificables.
-        .cajon.cajon.C02.color-secundario.p-4.mb-2
+        .cajon.cajon.C01.color-primario.p-4.mb-2
           p.mb-0(data-aos="fade-down") El establecimiento de objetivos en cada fase permite orientar las actividades del equipo de desarrollo, facilitar la toma de decisiones y reducir los riesgos asociados al proyecto. Asimismo, estos objetivos ayudan a mantener la coherencia entre los requisitos del sistema, las soluciones diseñadas y el producto final que será implementado.
     p.mb-4(data-aos="fade-down") A continuación, se describen los objetivos asociados a las principales fases del ciclo de vida del <em>software</em>:
     .row.BG02.justify-content-center.align-items-center.px-3.mb-4(data-aos="flip-up")

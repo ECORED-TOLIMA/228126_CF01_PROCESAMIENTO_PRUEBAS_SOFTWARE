@@ -7,7 +7,7 @@
         span 5
       h1 Elicitación de requisitos
     p.mb-4(data-aos="fade-down") La elicitación de requisitos corresponde al proceso mediante el cual se identifican, recopilan y comprenden las necesidades, expectativas y restricciones de los interesados en relación con un sistema o producto de <em>software</em>. Esta etapa permite descubrir qué debe hacer el sistema, cómo debe comportarse y cuáles son las condiciones bajo las cuales debe operar.
-    .bloque-texto-g.bg-01.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema5/img01.jpg')})`}"
       )
@@ -35,7 +35,7 @@
           img(src='@/assets/curso/tema5/img08.png')
       .col.col-lg-7.col-12.order-lg-1.order-2
         p.mb-4(data-aos="fade-down") La planeación de la elicitación corresponde al proceso mediante el cual se organiza y prepara la obtención de información necesaria para identificar y comprender los requisitos de un sistema. En esta etapa se establecen los objetivos de la recolección de información, se identifican los actores involucrados y se determinan las técnicas y recursos que se utilizarán para obtener los requisitos de manera estructurada y eficiente.
-        .cajon.cajon.C06.color-primario.px-4.py-3
+        .cajon.cajon.C02.color-secundario.px-4.py-3
           p.mb-0(data-aos="fade-down") Una adecuada planeación permite optimizar el tiempo, reducir ambigüedades y garantizar que la información recopilada sea pertinente para el desarrollo del <em>software</em>. Además, facilita la coordinación entre analistas, usuarios, expertos del dominio y demás interesados, lo que contribuye a construir una visión compartida del sistema que se desea desarrollar.
     p.mb-4(data-aos="fade-down") Dentro de la planeación de la elicitación se consideran varios aspectos fundamentales:
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
@@ -74,7 +74,7 @@
     separador
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.2 Fuentes de información
-    .bloque-texto-g.bloque-texto-g--inverso.bg-01.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema5/img09.jpg')})`}"
       )
@@ -128,7 +128,7 @@
         figure
           img(src='@/assets/curso/tema5/img10.svg')
       .col.col-lg-8.col-12.order-lg-2.order-2
-        .cajon.cajon.C01.px-4.py-3
+        .cajon.cajon.C02.px-4.py-3
           p.mb-0(data-aos="fade-down") El análisis de diferentes fuentes de información permite obtener una visión más completa de las necesidades del sistema. Al contrastar la información proveniente de usuarios, documentos y procesos existentes, el equipo de desarrollo puede identificar requisitos más claros, reducir ambigüedades y asegurar que el <em>software</em> responda de manera efectiva a las necesidades del contexto organizacional.
     separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -186,7 +186,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/tema5/img12.jpg')
+          img(src='@/assets/curso/tema5/img12.png')
       .col.col-lg-7.col-12.order-lg-2.order-2
         p.mb-4(data-aos="fade-down") Los instrumentos de recolección de información corresponden a los recursos utilizados para registrar, organizar y documentar los datos obtenidos durante la aplicación de las técnicas de elicitación. Estos instrumentos permiten sistematizar la información recopilada, facilitar su análisis y asegurar que los requisitos identificados queden documentados de manera clara y estructurada.
         .cajon.cajon.C06.color-primario.p-4
@@ -232,7 +232,7 @@
       .col-lg-12
         .row.justify-content-center
           .col-lg-12(data-aos="fade-down")
-            .row.d-flex.align-items-center.bg-05(data-aos="fade-right")
+            .row.d-flex.align-items-center.bg-07(data-aos="fade-right")
               .col-lg-auto.pe-lg-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
                 figure.m-0.p-0.w-100.h-100.d-flex
                   img(src='@/assets/curso/tema5/17.png', alt='', class="w-100 h-100 object-fit-cover", style="margin-left:-10px")

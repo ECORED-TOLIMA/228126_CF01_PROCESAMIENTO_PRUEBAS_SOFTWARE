@@ -18,7 +18,7 @@
               p.mb-0 Las herramientas para la captura de requisitos permiten describir cómo interactúan los usuarios con el sistema, cuáles son las funcionalidades esperadas y de qué manera se deben atender las necesidades del negocio. Estas herramientas favorecen la comunicación entre analistas, desarrolladores, usuarios y demás partes interesadas, lo que contribuye a reducir ambigüedades y mejorar la calidad de los requisitos definidos.
       .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/tema8/img01.jpg')
+          img(src='@/assets/curso/tema8/img01.png')
     .row.justify-content-center.mb-4
       .col.col-lg-2.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
@@ -32,7 +32,7 @@
           img(src='@/assets/curso/tema8/img04.svg')
       .col.col-lg-6.col-12.order-lg-1.order-2
         p.mb-4(data-aos="fade-down") Durante la década de 1990, el uso de diagramas de modelado se consolidó con la aparición de metodologías orientadas a objetos y del Lenguaje Unificado de Modelado (UML), que permitió representar gráficamente las interacciones entre los usuarios y el sistema. Posteriormente, con la adopción de metodologías ágiles en el desarrollo de <em>software</em>, se popularizó el uso de historias de usuario como una forma sencilla y flexible de describir las necesidades del usuario final.
-        .cajon.cajon.C02.color-secundario.px-4.py-3
+        .cajon.cajon.C01.color-primario.px-4.py-3
           p.mb-0(data-aos="fade-down") En la actualidad, las organizaciones combinan diferentes herramientas de captura de requisitos para obtener una visión más completa del sistema que se desea construir. Algunas herramientas permiten representar las interacciones del sistema, otras describen las funcionalidades desde la perspectiva del usuario y otras ayudan a visualizar la experiencia del usuario a través de secuencias gráficas o narrativas.
     p.mb-4(data-aos="fade-down") Entre las herramientas más utilizadas para la captura de requisitos se encuentran los <b>diagramas de casos de uso, las historias de usuario y los <em>storyboard</em></b>, las cuales permiten representar la funcionalidad del sistema desde diferentes perspectivas y facilitan la comunicación entre los diferentes actores del proyecto.
     p.mb-0(data-aos="fade-down") Estas herramientas se analizan en los siguientes apartados, donde se describe su propósito, características y la forma en que contribuyen a la documentación y comprensión de los requisitos del sistema.
@@ -43,10 +43,10 @@
     .row.BG02.justify-content-center.align-items-center.px-3.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/tema8/img05.jpg')
+          img(src='@/assets/curso/tema8/img05.png')
       .col.col-lg-6.col-12.order-lg-2.order-2
         p.mb-4(data-aos="fade-down") Este tipo de diagramas forma parte del Lenguaje Unificado de Modelado (UML) y se emplea ampliamente en la ingeniería de <em>software</em> para representar de manera gráfica las acciones que el sistema debe realizar desde la perspectiva del usuario. En lugar de centrarse en aspectos técnicos o en la estructura interna del sistema, los diagramas de casos de uso se enfocan en el comportamiento observable del sistema y en las actividades que los usuarios pueden ejecutar.
-        .cajon.cajon.C01.color-secundario.px-4.py-3
+        .cajon.cajon.C02.color-secundario.px-4.py-3
           p.mb-0(data-aos="fade-down") Los diagramas de casos de uso permiten identificar claramente quién interactúa con el sistema, qué funciones están disponibles y cómo se relacionan las diferentes funcionalidades. De esta manera, facilitan la comunicación entre analistas, desarrolladores, usuarios y demás partes interesadas, contribuyendo a que todos los participantes del proyecto compartan una visión común sobre el funcionamiento del sistema.
     p.mb-4(data-aos="fade-down") Un diagrama de casos de uso está compuesto por varios elementos que permiten representar las interacciones entre los actores y el sistema.
     .desktop
@@ -211,7 +211,7 @@
     separador
     #t_8_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 8.2 Historias de usuario
-    .bloque-texto-g.bg-01.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema8/img16.jpg')})`}"
       )
@@ -252,7 +252,7 @@
         figure
           img(src='@/assets/curso/tema8/img20.svg')
       .col.col-lg-8.col-12.order-lg-2.order-2
-        .cajon.cajon.bg-05.px-4.py-2
+        .cajon.cajon.bg-07.px-4.py-2
           p.mb-0(data-aos="fade-down") Las historias de usuario suelen complementarse con criterios de aceptación, los cuales describen las condiciones que deben cumplirse para considerar que el requisito ha sido implementado correctamente. Estos criterios facilitan la validación del desarrollo y permiten verificar si la funcionalidad satisface las necesidades planteadas.
     p.mb-4(data-aos="fade-down") Para elaborar una historia de usuario de manera adecuada, se puede seguir el siguiente procedimiento:
     .row.justify-content-center.mb-4
@@ -275,14 +275,14 @@
               p.mb-0 Se describen las condiciones que permitirán verificar que la funcionalidad se implementó correctamente.
       .col.col-lg-4.col-6.col-md-6.col-8.order-lg-2.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/tema8/img21.jpg')
+          img(src='@/assets/curso/tema8/img21.png')
     p.mb-4(data-aos="fade-down") A continuación, se presentan algunos ejemplos que explican cómo se redactan las historias de usuario en diferentes contextos.
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/tema8/img22.jpg')
+          img(src='@/assets/curso/tema8/img22.png')
       .col.col-lg-8.col-12.order-lg-2.order-2
-        .cajon.cajon.C06.px-4.py-3.mb-3
+        .cajon.cajon.C02.px-4.py-3.mb-3
           h4.mb-1(data-aos="fade-down") Ejemplo 1. Plataforma educativa
           p.mb-4 Historia de usuario: como aprendiz de un curso virtual, quiero acceder a los contenidos de cada módulo desde una plataforma en línea, para estudiar los materiales del curso y avanzar en mi proceso de formación.
           .tarjeta.tarjeta--blanca.p-4
@@ -303,9 +303,9 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/tema8/img23.jpg')
+          img(src='@/assets/curso/tema8/img23.png')
       .col.col-lg-8.col-12.order-lg-1.order-2
-        .cajon.cajon.C01.px-4.py-3.mb-3
+        .cajon.cajon.C06.px-4.py-3.mb-3
           h4.mb-1(data-aos="fade-down") Ejemplo 2. Sistema de tienda virtual
           p.mb-4 Historia de usuario: como cliente de una tienda en línea, quiero agregar productos a un carrito de compras, para realizar posteriormente el pago de los artículos seleccionados.
           .tarjeta.tarjeta--blanca.p-4
@@ -328,7 +328,7 @@
     #t_8_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 8.3 <em>storyboard</em>
     p.mb-4(data-aos="fade-down") El <em>storyboard</em> es una herramienta visual utilizada en la captura y análisis de requisitos que permite representar, mediante una secuencia de escenas o ilustraciones, la forma en que un usuario interactúa con un sistema o aplicación. Su propósito es describir de manera gráfica el flujo de acciones que realiza el usuario, facilitando la comprensión del funcionamiento del sistema antes de su desarrollo.
-    .bloque-texto-g.bloque-texto-g--inverso.bg-01.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema8/img24.jpg')})`}"
       )
@@ -336,7 +336,7 @@
         p.mb-0(data-aos="fade-down") El uso del <em>storyboard</em> tiene origen en la industria cinematográfica, especialmente en los procesos de planificación de animación desarrollados por la empresa Walt Disney Productions, donde se utilizaban secuencias de dibujos para planificar las escenas de una película. Posteriormente, esta técnica fue adoptada en áreas como el diseño de <em>software</em>, la experiencia de usuario y el desarrollo de productos digitales, debido a su capacidad para representar procesos de interacción de forma clara y comprensible.
     .row.justify-content-center.mb-4
       .col.col-lg-9.col-12.order-lg-2.order-2
-        .cajon.cajon.C01.px-4.py-2
+        .cajon.cajon.C02.px-4.py-2
           .row.justify-content-center.align-items-center
             p.mb-0(data-aos="fade-down") En ingeniería de requisitos, el <em>storyboard</em> permite presentar cómo se desarrolla una situación de uso del sistema paso a paso. Cada escena representa una acción o momento específico dentro del proceso, lo que facilita la identificación de funcionalidades necesarias, posibles errores o mejoras en la experiencia del usuario.
       .col.col-lg-auto.col-8.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3

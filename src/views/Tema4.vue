@@ -10,7 +10,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/tema4/img01.jpg')
+          img(src='@/assets/curso/tema4/img01.png')
       .col.col-lg-6.col-12.order-lg-2.order-2
         p.mb-3(data-aos="fade-down") Esta disciplina actúa como un puente entre los usuarios, los clientes y el equipo de desarrollo, permitiendo que las expectativas del negocio se transformen en soluciones tecnológicas viables. Cuando los requisitos se definen de forma clara y estructurada, el equipo de desarrollo puede comprender mejor el problema que debe resolverse, lo que facilita la toma de decisiones durante el diseño y la implementación del sistema.
         .cajon.cajon.C06.color-primario.px-4.py-3
@@ -118,12 +118,12 @@
               img(src='@/assets/curso/tema4/img11.svg')
           .col-lg-10.col-12
             p.mb-0 Estas áreas se encuentran estrechamente relacionadas y se desarrollan de forma iterativa durante el proyecto. La información obtenida en una etapa puede requerir revisiones o ajustes en otras áreas, lo que permite mejorar progresivamente la definición de los requisitos.
-        .cajon.cajon.C02.px-4.py-3
+        .cajon.cajon.C07.px-4.py-3
           p.mb-0(data-aos="fade-down") Una adecuada aplicación de estas áreas contribuye a reducir errores en la interpretación de los requisitos, mejorar la comunicación entre los actores del proyecto y facilitar la construcción de sistemas de <em>software</em> que respondan de manera efectiva a las necesidades del usuario.
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2 Fases de la ingeniería de requisitos
-    .bloque-texto-g.bloque-texto-g--inverso.bg-01.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img12.jpg')})`}"
       )
@@ -157,7 +157,7 @@
       .col-lg-8.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
         p.mb-2(data-aos="fade-down") Uno de los ejemplos más conocidos sobre la importancia de una correcta definición de requisitos ocurrió durante el desarrollo del sistema de equipaje del aeropuerto internacional de Denver en la década de 1990. El proyecto buscaba automatizar completamente el manejo de equipajes mediante un complejo sistema informático y mecánico. Sin embargo, debido a problemas en la definición y gestión de los requisitos, el sistema presentó múltiples fallos, retrasos y sobrecostos.
         .col.col-12
-          .cajon.cajon.C04.p-4.mb-2
+          .cajon.cajon.C07.p-4.mb-2
             .row
               .col-lg-auto.d-none.d-lg-block
                 figure
