@@ -6,20 +6,26 @@
       .titulo-principal__numero
         span 8
       h1 Herramientas para la captura de requisitos
-    .row.justify-content-center.align-items-stretch.mb-4.g-0
-      .col-lg-7.col-12.order-lg-2.order-2
-        .cajon.bg-02.p-4.h-100.w-100
-          p.mb-3 En el desarrollo de <em>software</em>, la captura de requisitos constituye una actividad fundamental dentro de la ingeniería de requisitos, ya que permite identificar, comprender y documentar las necesidades que deben ser atendidas por el sistema. Para facilitar este proceso, se utilizan diversas herramientas que ayudan a representar la información de forma clara, organizada y comprensible para todos los participantes del proyecto.
-          .row.mb-0
-            .col-lg-2.d-none.d-lg-block
-              figure
-                img(src='@/assets/curso/tema8/img02.svg')
-            .col-lg-10.col-12
-              p.mb-0 Las herramientas para la captura de requisitos permiten describir cómo interactúan los usuarios con el sistema, cuáles son las funcionalidades esperadas y de qué manera se deben atender las necesidades del negocio. Estas herramientas favorecen la comunicación entre analistas, desarrolladores, usuarios y demás partes interesadas, lo que contribuye a reducir ambigüedades y mejorar la calidad de los requisitos definidos.
-      .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
-        figure
-          img(src='@/assets/curso/tema8/img01.png')
-    .row.justify-content-center.mb-4
+
+    .row.align-items-center.justify-content-center.bg-02
+      .col-lg-12
+        .row.justify-content-center
+          .col-lg-12(data-aos="fade-down")
+            .row.d-flex.align-items-center.bg-base(data-aos="fade-right")
+              .col-lg-auto.pe-lg-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
+                figure.m-0.p-0.w-100.h-100.d-flex
+                  img(src='@/assets/curso/tema8/img01.png', alt='', class="w-100 h-100 object-fit-cover", style="margin-left:-10px")
+              .col-lg
+                p.mb-3 En el desarrollo de <em>software</em>, la captura de requisitos constituye una actividad fundamental dentro de la ingeniería de requisitos, ya que permite identificar, comprender y documentar las necesidades que deben ser atendidas por el sistema. Para facilitar este proceso, se utilizan diversas herramientas que ayudan a representar la información de forma clara, organizada y comprensible para todos los participantes del proyecto.
+                .row.mb-0
+                  .col-lg-2.d-none.d-lg-block
+                    figure
+                      img(src='@/assets/curso/tema8/img02.svg')
+                  .col-lg-10.col-12
+                    p.mb-0 Las herramientas para la captura de requisitos permiten describir cómo interactúan los usuarios con el sistema, cuáles son las funcionalidades esperadas y de qué manera se deben atender las necesidades del negocio. Estas herramientas favorecen la comunicación entre analistas, desarrolladores, usuarios y demás partes interesadas, lo que contribuye a reducir ambigüedades y mejorar la calidad de los requisitos definidos.
+
+
+    .row.justify-content-center.mt-4
       .col.col-lg-2.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/tema8/img03.svg')
@@ -275,7 +281,7 @@
               p.mb-0 Se describen las condiciones que permitirán verificar que la funcionalidad se implementó correctamente.
       .col.col-lg-4.col-6.col-md-6.col-8.order-lg-2.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/tema8/img21.png')
+          img(src='@/assets/curso/tema8/img21.png', style= "height: 583px")
     p.mb-4(data-aos="fade-down") A continuación, se presentan algunos ejemplos que explican cómo se redactan las historias de usuario en diferentes contextos.
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3

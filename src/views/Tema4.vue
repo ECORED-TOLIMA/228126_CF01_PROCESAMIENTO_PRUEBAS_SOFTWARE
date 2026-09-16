@@ -73,7 +73,7 @@
             p.mb-0 La ingeniería de requisitos se organiza en diferentes áreas que agrupan las actividades necesarias para identificar, analizar, documentar, validar y gestionar los requisitos de un sistema de <em>software</em>. Cada una de estas áreas cumple una función específica dentro del proceso y permite estructurar el trabajo del equipo de desarrollo de manera ordenada.
         .cajon.cajon.C01.color-primario.p-4
           p.mb-0(data-aos="fade-down") Estas áreas facilitan la comprensión de las necesidades del usuario, la definición precisa de los requisitos y el control de los cambios que puedan presentarse durante el desarrollo del proyecto. En conjunto, permiten garantizar que el <em>software</em> responda adecuadamente a los objetivos del negocio y a las expectativas de los usuarios.
-    p.mb-4(data-aos="fade-down") Las principales áreas de la ingeniería de requisitos se presentan a continuación.
+        p.mt-3(data-aos="fade-down") Las principales áreas de la ingeniería de requisitos se presentan a continuación.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido

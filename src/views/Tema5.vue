@@ -141,7 +141,7 @@
         p.mb-3(data-aos="fade-down") Las técnicas de elicitación corresponden a los métodos utilizados para obtener, descubrir y comprender los requisitos del sistema a partir de las diferentes fuentes de información. Estas técnicas permiten al equipo de desarrollo interactuar con usuarios, clientes y expertos del dominio con el fin de identificar necesidades, problemas, expectativas y restricciones que deben ser consideradas durante el desarrollo del <em>software</em>.
         .cajon.cajon.C06.color-primario.px-4.py-3
           p.mb-0(data-aos="fade-down") La selección de la técnica adecuada depende del contexto del proyecto, la disponibilidad de los participantes, la complejidad del sistema y el tipo de información que se requiere obtener. En muchos proyectos es común combinar varias técnicas para lograr una comprensión más completa de los requisitos.
-    p.mb-4(data-aos="fade-down") A continuación, se presentan algunas de las técnicas de elicitación más utilizadas en proyectos de desarrollo de <em>software</em>.
+    p.mb-4.text-center(data-aos="fade-down") A continuación, se presentan algunas de las técnicas de elicitación más utilizadas en proyectos de desarrollo de <em>software</em>.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido

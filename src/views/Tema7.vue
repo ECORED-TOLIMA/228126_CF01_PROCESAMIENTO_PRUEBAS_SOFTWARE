@@ -17,7 +17,7 @@
     p.mb-4(data-aos="fade-down") Las herramientas de modelado ayudan a organizar la información del proyecto, identificar relaciones entre los diferentes elementos del sistema y detectar posibles inconsistencias en los requisitos definidos. Además, permiten que los diferentes actores del proyecto, como analistas, desarrolladores, diseñadores y usuarios, compartan una visión común sobre el funcionamiento del sistema.
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-7.col-12.order-lg-2.order-2
-        .cajon.bg-02.p-4.h-100.w-100
+        .cajon.bg-02.p-4.h-100.w-100(style="margin-left: -4px;")
           p.mb-1(data-aos="fade-down") Entre los beneficios más importantes del uso de herramientas de modelado en la ingeniería de requisitos se destacan:
           .tarjeta.tarjeta--blanca.px-4.py-3.mb-2
             ul.lista-ul--color.mb-0
