@@ -131,6 +131,9 @@
         p.mb-4(data-aos="fade-down") La correcta identificación y gestión de los <em>stakeholders</em> permite establecer canales de comunicación efectivos y asegurar que las necesidades del negocio se reflejen adecuadamente en los requisitos del sistema. Además, facilita la validación de los resultados obtenidos durante el desarrollo del <em>software</em>.
         .cajon.cajon.C02.color-secundario.px-4.py-2
           p.mb-2(data-aos="fade-down") En muchos proyectos de ingeniería de requisitos se recomienda elaborar una matriz de <em>stakeholders</em>, herramienta que permite identificar a cada parte interesada, su nivel de influencia en el proyecto, sus expectativas y el tipo de participación que tendrá durante el proceso de desarrollo del sistema.
+
+    p.mt-4 A continuación, se presenta la relación entre los actores involucrados, su nivel de influencia e interés y la forma en que participan en el proyecto:
+
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido

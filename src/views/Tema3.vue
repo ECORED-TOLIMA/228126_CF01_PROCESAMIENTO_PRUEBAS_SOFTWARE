@@ -83,7 +83,7 @@
         .cajon.cajon.C01.color-primario.p-3
           .row.justify-content-center.align-items-center
             p.mb-0(data-aos="fade-down") Para que puedan ser evaluados correctamente, los requisitos no funcionales deben formularse de manera medible y verificable, especificando valores concretos o condiciones que permitan comprobar su cumplimiento durante las pruebas del sistema.
-    p.mb-4(data-aos="fade-down") A continuación, se presentan algunas de las categorías más comunes de requisitos no funcionales.
+    p.mb-4(data-aos="fade-down") A continuación, se presentan algunas de las categorías más comunes de requisitos no funcionales:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido
@@ -144,7 +144,7 @@
             .cajon.cajon.bg-02.p-4.mb-2
               p.mb-0 A diferencia de los requisitos funcionales y no funcionales, que describen lo que el sistema debe hacer y cómo debe comportarse, los requisitos de restricción definen condiciones externas o internas que limitan las decisiones de diseño, las tecnologías a utilizar o las formas de implementación del sistema.
         p.mb-4(data-aos="fade-down") Este tipo de requisitos es importante porque permite asegurar que el <em>software</em> se desarrolle respetando normas legales, políticas organizacionales, estándares tecnológicos o limitaciones de infraestructura. Su adecuada identificación evita problemas futuros relacionados con el incumplimiento de regulaciones, incompatibilidades tecnológicas o dificultades de integración con otros sistemas.
-        p.mb-0(data-aos="fade-down") Las restricciones pueden presentarse en diferentes ámbitos, como se describe a continuación.
+        p.mb-0(data-aos="fade-down") Las restricciones pueden presentarse en diferentes ámbitos, como se describe a continuación:
       .col-lg-3.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema3/img05.png')

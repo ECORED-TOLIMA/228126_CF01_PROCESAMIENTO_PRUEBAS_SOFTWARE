@@ -91,7 +91,7 @@
           .col-lg-7.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema7/img08.jpg')
-    p.mb-4(data-aos="fade-down") A continuación, se presenta una tabla con algunos ejemplos de herramientas utilizadas para el modelado de sistemas en proyectos de <em>software</em>.
+    p.mb-4(data-aos="fade-down") A continuación, se presenta una tabla con algunos ejemplos de herramientas utilizadas para el modelado de sistemas en proyectos de <em>software</em>:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido
@@ -152,7 +152,7 @@
       .col.col-lg-8.col-12.order-lg-2.order-2
         .cajon.cajon.bg-02.px-4.py-3
           p.mb-0(data-aos="fade-down") Otra característica relevante es la <b>capacidad de actualización y trazabilidad</b>, ya que las herramientas permiten modificar los modelos cuando cambian los requisitos del sistema y mantener un registro de las versiones o cambios realizados. Esto facilita el control del proyecto y la gestión de los requisitos a lo largo del desarrollo.
-    p.mb-4(data-aos="fade-down") A continuación, se presentan algunas características comunes de las herramientas de modelado utilizadas en proyectos de <em>software</em>.
+    p.mb-4(data-aos="fade-down") A continuación, se presentan algunas características comunes de las herramientas de modelado utilizadas en proyectos de <em>software</em>:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido

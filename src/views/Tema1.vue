@@ -168,7 +168,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0(data-aos="fade-down") El ciclo de vida del <em>software</em> se estructura en un conjunto de fases que orientan el desarrollo de un sistema informático desde la identificación de una necesidad hasta su implementación y mantenimiento. Cada fase agrupa actividades específicas que permiten planificar, diseñar, construir, evaluar y mantener el <em>software</em> de manera organizada.
     p(data-aos="fade-down") Estas fases facilitan la gestión del proyecto, ya que permiten dividir el proceso de desarrollo en etapas claramente definidas, lo que contribuye a controlar el avance del proyecto, mejorar la comunicación entre los miembros del equipo y asegurar que el producto final cumpla con los requisitos establecidos.
-    p.mb-4(data-aos="fade-down") Aunque el número y la denominación de las fases pueden variar según el modelo de desarrollo utilizado, en términos generales el ciclo de vida del <em>software</em> comprende las siguientes fases.
+    p.mb-4(data-aos="fade-down") Aunque el número y la denominación de las fases pueden variar según el modelo de desarrollo utilizado, en términos generales, el ciclo de vida del <em>software</em> comprende las siguientes fases.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido

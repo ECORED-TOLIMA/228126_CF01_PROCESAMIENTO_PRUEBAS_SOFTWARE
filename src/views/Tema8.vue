@@ -54,7 +54,7 @@
         p.mb-4(data-aos="fade-down") Este tipo de diagramas forma parte del Lenguaje Unificado de Modelado (UML) y se emplea ampliamente en la ingeniería de <em>software</em> para representar de manera gráfica las acciones que el sistema debe realizar desde la perspectiva del usuario. En lugar de centrarse en aspectos técnicos o en la estructura interna del sistema, los diagramas de casos de uso se enfocan en el comportamiento observable del sistema y en las actividades que los usuarios pueden ejecutar.
         .cajon.cajon.C02.color-secundario.px-4.py-3
           p.mb-0(data-aos="fade-down") Los diagramas de casos de uso permiten identificar claramente quién interactúa con el sistema, qué funciones están disponibles y cómo se relacionan las diferentes funcionalidades. De esta manera, facilitan la comunicación entre analistas, desarrolladores, usuarios y demás partes interesadas, contribuyendo a que todos los participantes del proyecto compartan una visión común sobre el funcionamiento del sistema.
-    p.mb-4(data-aos="fade-down") Un diagrama de casos de uso está compuesto por varios elementos que permiten representar las interacciones entre los actores y el sistema.
+    p.mb-4(data-aos="fade-down") Un diagrama de casos de uso está compuesto por varios elementos que permiten representar las interacciones entre los actores y el sistema:
     .desktop
       .row.mb-5
         .col-6.col-md-3.mb-4.mb-xl-0
@@ -186,6 +186,9 @@
             img(src='@/assets/curso/tema8/img15.jpg')
       p.mb-0(data-aos="fade-down") En este ejemplo, el cliente interactúa con el sistema para realizar compras, mientras que el administrador gestiona la información del sistema.
     p.mb-4(data-aos="fade-down") Actualmente existen diversas herramientas que permiten elaborar diagramas de casos de uso de manera gráfica y estructurada.
+
+    p A continuación, se presentan algunas opciones disponibles y sus principales características para apoyar la representación gráfica de los requisitos del sistema:
+
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido
@@ -381,7 +384,7 @@
               img(src='@/assets/curso/tema8/img30.svg' )
           h4.text-center Analizar y validar el flujo de interacción
           p El equipo de desarrollo revisa el <em>storyboard</em> para identificar mejoras, validar los requisitos y garantizar que el sistema responda adecuadamente a las necesidades del usuario.
-    p.mb-4(data-aos="fade-down") A continuación, se presenta un ejemplo simplificado de <em>storyboard</em> aplicado a un sistema de inscripción a cursos en línea.
+    p.mb-4(data-aos="fade-down") A continuación, se presenta un ejemplo simplificado de <em>storyboard</em> aplicado a un sistema de inscripción a cursos en línea:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido

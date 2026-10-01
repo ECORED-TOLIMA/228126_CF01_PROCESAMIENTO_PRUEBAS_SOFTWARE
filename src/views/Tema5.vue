@@ -141,7 +141,7 @@
         p.mb-3(data-aos="fade-down") Las técnicas de elicitación corresponden a los métodos utilizados para obtener, descubrir y comprender los requisitos del sistema a partir de las diferentes fuentes de información. Estas técnicas permiten al equipo de desarrollo interactuar con usuarios, clientes y expertos del dominio con el fin de identificar necesidades, problemas, expectativas y restricciones que deben ser consideradas durante el desarrollo del <em>software</em>.
         .cajon.cajon.C06.color-primario.px-4.py-3
           p.mb-0(data-aos="fade-down") La selección de la técnica adecuada depende del contexto del proyecto, la disponibilidad de los participantes, la complejidad del sistema y el tipo de información que se requiere obtener. En muchos proyectos es común combinar varias técnicas para lograr una comprensión más completa de los requisitos.
-    p.mb-4.text-center(data-aos="fade-down") A continuación, se presentan algunas de las técnicas de elicitación más utilizadas en proyectos de desarrollo de <em>software</em>.
+    p.mb-4.text-center(data-aos="fade-down") A continuación, se presentan algunas de las técnicas de elicitación más utilizadas en proyectos de desarrollo de <em>software</em>:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido
@@ -191,7 +191,7 @@
         p.mb-4(data-aos="fade-down") Los instrumentos de recolección de información corresponden a los recursos utilizados para registrar, organizar y documentar los datos obtenidos durante la aplicación de las técnicas de elicitación. Estos instrumentos permiten sistematizar la información recopilada, facilitar su análisis y asegurar que los requisitos identificados queden documentados de manera clara y estructurada.
         .cajon.cajon.C06.color-primario.p-4
           p.mb-0(data-aos="fade-down") El uso de instrumentos adecuados contribuye a mantener un registro confiable de las necesidades expresadas por los usuarios y demás participantes del proyecto. Además, permiten dar seguimiento a las decisiones tomadas durante el proceso de levantamiento de requisitos y sirven como evidencia del proceso de análisis realizado por el equipo de desarrollo.
-    p.mb-4(data-aos="fade-down") A continuación, se presentan algunos de los instrumentos más utilizados en la recolección de información para la ingeniería de requisitos.
+    p.mb-4(data-aos="fade-down") A continuación, se presentan algunos de los instrumentos más utilizados en la recolección de información para la ingeniería de requisitos:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido
